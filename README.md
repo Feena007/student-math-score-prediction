@@ -88,7 +88,13 @@ Through this project, I gained practical experience in:
 ## 🚀 Future Improvements
 
 The project can be further improved by experimenting with additional regression techniques, feature engineering, hyperparameter tuning, and other evaluation metrics.
+## 📂 Dataset Source
 
+The dataset used in this project was obtained from Kaggle.
+
+The dataset contains information about students' demographic background, parental education, lunch type, test preparation, and mathematics, reading, and writing scores.
+
+The dataset was used for educational and Machine Learning practice purposes.
 ## 📁 Repository Contents
 
 ```text
